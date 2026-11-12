@@ -1,7 +1,4 @@
-local QBCore = exports['qb-core']:GetCoreObject()
-
 local screenshotActive = false
-local playerData = QBCore.Functions.GetPlayerData()
 
 RegisterNetEvent('GLDNRMZ-screenshot:client:takescreenshot')
 AddEventHandler('GLDNRMZ-screenshot:client:takescreenshot', function()
