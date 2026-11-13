@@ -4,7 +4,7 @@ game 'gta5'
 
 author 'GLDNRMZ'
 description 'Screenshot on Key Press'
-version '1.0.0'
+version '1.1.0'
 
 shared_script 'config.lua' 
 
